@@ -1,6 +1,5 @@
 package com.zchaos.test.znote;
 
-import java.awt.Color;
 import java.awt.EventQueue;
 import java.awt.GridLayout;
 
@@ -10,9 +9,9 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JSplitPane;
 import javax.swing.JTabbedPane;
+import javax.swing.JTextPane;
 import javax.swing.JTree;
 import javax.swing.border.EmptyBorder;
-import javax.swing.JTextPane;
 
 public class Znote2 extends JFrame {
 
